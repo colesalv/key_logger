@@ -1,4 +1,5 @@
 # kl.py
+# Source code for this project is private and available upon request due to security sensitivity
 🔐**Key Logger Project (Educational Purposes Only)**\
 -A controlled, exploration of key logging techniques designed strictly for educational purposes to understand how keystroke capturing works and the importance of cybersecurity defenses against such threats.
 
